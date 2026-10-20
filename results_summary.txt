@@ -1,0 +1,7 @@
+Disease Prediction - Model Results
+
+              Model  Accuracy  Precision   Recall  F1 Score
+Logistic Regression  0.982456   0.986111 0.986111  0.986111
+      Random Forest  0.956140   0.958904 0.972222  0.965517
+
+Educational use only. Not for medical diagnosis.
